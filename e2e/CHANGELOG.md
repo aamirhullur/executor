@@ -1,5 +1,17 @@
 # @executor-js/e2e
 
+## 0.0.48
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @executor-js/sdk@1.6.8
+  - @executor-js/plugin-graphql@1.6.8
+  - @executor-js/plugin-mcp@1.6.8
+  - @executor-js/plugin-openapi@1.6.8
+  - @executor-js/api@1.4.71
+  - @executor-js/plugin-toolkits@1.5.43
+
 ## 0.0.47
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # executor
 
+## 1.6.8
+
+### Patch Changes
+
+- [#1904](https://github.com/UsefulSoftwareCo/executor/pull/1904) [`c27436d`](https://github.com/UsefulSoftwareCo/executor/commit/c27436dd9280eb77114e2d637c7b4c77cf2d6a2b) Thanks [@RhysSullivan](https://github.com/RhysSullivan)! - Allow manually registered OAuth apps to use HTTP Basic client authentication for token exchange and refresh.
+
+- Updated dependencies []:
+  - @executor-js/sdk@1.6.8
+  - @executor-js/runtime-quickjs@1.6.8
+  - @executor-js/local@1.6.8
+  - @executor-js/api@1.4.71
+
 ## 1.6.7
 
 ### Patch Changes
